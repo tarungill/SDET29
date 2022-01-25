@@ -11,6 +11,7 @@ public class DemoGit {
 		System.out.println("Hii this user1 first commit");
 		System.out.println("Hii this is user2 first commit");
 		System.out.println("Hii this is user1 second commit");
+		System.out.println("Hii this is user1 third commit get conflict");
 		
 	}
 
